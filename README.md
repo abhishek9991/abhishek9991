@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack.
 - 🌱 I’m currently learning Advanced Node.js.
-- 👯 I’m looking to collaborate on MERN Projects.
+- :handshake: I’m looking to collaborate on MERN Projects.
 - ⚡ Fun fact: *The more you code, the more you code!*
 - 📫 How to reach me:  [linkedin.com/in/abhishek9991/](https://www.linkedin.com/in/abhishek9991/)
